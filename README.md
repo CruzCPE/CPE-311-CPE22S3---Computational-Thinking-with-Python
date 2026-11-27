@@ -7,3 +7,5 @@
 **Student ID Number:** 2512077
 
 **Section:** CPE22S3
+
+**Email:** qecruz@tip.edu.ph
